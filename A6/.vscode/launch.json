@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "SortedMiniMap",
+            "request": "launch",
+            "mainClass": "a6.SortedMiniMap",
+            "projectName": "A6"
+        },
+        {
+            "type": "java",
+            "name": "StandardMiniMap",
+            "request": "launch",
+            "mainClass": "a6.StandardMiniMap",
+            "projectName": "A6"
+        }
+    ]
+}
